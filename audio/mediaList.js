@@ -54,5 +54,25 @@ export const mediaList = [
   {
     value: 13,
     label: 'cupid - Lil C.C.'
+  },
+  {
+    value: 14,
+    label: '平凡之路 - 朴树'
+  },
+  {
+    value: 15,
+    label: '告白之夜 - Ayasa'
+  },
+  {
+    value: 16,
+    label: '伯虎说 - 唐伯虎Annie_伯爵Johnny'
+  },
+  {
+    value: 17,
+    label: '出山 - 花粥'
+  },
+  {
+    value: 18,
+    label: '一路生花 - 温奕心'
   }
 ]
