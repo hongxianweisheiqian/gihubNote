@@ -13,7 +13,7 @@ export const mediaList = [
   },
   {
     value: 3,
-    label: '哪里都是你 - 队长'
+    label: '等你下课 - 周杰伦 with 杨瑞代'
   },
   {
     value: 4,
@@ -37,11 +37,11 @@ export const mediaList = [
   },
   {
     value: 9,
-    label: '春娇与志明 - 街道办GDC,欧阳耀莹'
+    label: '爱你 - 王心凌'
   },
   {
     value: 10,
-    label: '醉清风 - 弦子'
+    label: '把回忆拼好给你 - 王贰浪'
   },
   {
     value: 11,
@@ -49,7 +49,7 @@ export const mediaList = [
   },
   {
     value: 12,
-    label: '情话 - 徐良'
+    label: '带我去找夜生活 - 告五人'
   },
   {
     value: 13,
@@ -65,7 +65,7 @@ export const mediaList = [
   },
   {
     value: 16,
-    label: '伯虎说 - 唐伯虎Annie_伯爵Johnny'
+    label: '潮汐 - 安苏羽&傅梦彤'
   },
   {
     value: 17,
@@ -73,6 +73,6 @@ export const mediaList = [
   },
   {
     value: 18,
-    label: '一路生花 - 温奕心'
+    label: 'Call of Silence - Clear Sky'
   }
 ]
